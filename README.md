@@ -27,3 +27,4 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-100000?style=plastic-square&logo=github)
 - ![Jupyter Lab](http://img.shields.io/badge/-Jupyter%20Lab-F37626?style=plastic-square&logo=jupyter&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-5C2D91?style=plastic-square&logo=visual-studio-code&logoColor=ffffff)
+- ![Docker](http://img.shields.io/badge/-docker-%230db7ed.svg?style=plastic-square&logo=docker&logoColor=ffffff) newby
