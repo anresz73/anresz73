@@ -1,7 +1,7 @@
 - - -
-Old Fashion Cyberpunk
+Data Engineer | Python | SQL | Data Viz
 ====
-Work in Progress Data Engineer
+Work in Progress Portfolio
 ----
 
 Getting into Pipelines with:
@@ -30,7 +30,7 @@ Getting into Pipelines with:
     <img alt="Dead Channel Color" height="220px" src=https://user-images.githubusercontent.com/68594187/155456441-63b33fca-1edf-4808-90f0-aaf02bea8136.gif />
   </a>
   <br/>
-  
+   
 *The sky above the port was the color of television, tuned to a dead channel.*
 
   *Check for dead channel numpy code.*
