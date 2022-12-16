@@ -26,7 +26,7 @@ Getting into Pipelines with:
 - - - -
 <div align="right" >
   <br/>
-  <a href = "https://github.com/anresz73/white_noise/blob/master/white_noise/white_noise.py">
+  <a href = "https://github.com/anresz73/white_noise/blob/master/white_noise.py">
     <img alt="Dead Channel Color" height="220px" src=https://user-images.githubusercontent.com/68594187/155456441-63b33fca-1edf-4808-90f0-aaf02bea8136.gif />
   </a>
   <br/>
