@@ -1,10 +1,8 @@
 - - -
 Data Engineer | Python | SQL | Data Viz
 ====
-Work in Progress Portfolio
-----
-
 Getting into Pipelines with:
+
 
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
 ![Numpy](https://img.shields.io/badge/-Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=ffffff)
@@ -39,5 +37,6 @@ Getting into Pipelines with:
  </div>
 <br/>
 
-
 - - -
+
+## Portfolio
