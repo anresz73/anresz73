@@ -40,3 +40,9 @@ Getting into Pipelines with:
 - - -
 
 ## Portfolio
+
+| **Link** | **Descripción** |
+| :----: | :----: |
+| **[Challenge Técnico](https://github.com/anresz73/cultura_db)** | Challenge Técnico Alkemy. ETL en Python desde archivos CSV a BD PostgreSQL|
+| **[White Noise Generator](https://github.com/anresz73/white_noise)** | Emulador de __canal sin señal__ usando Numpy y Matplotlib|
+| **[Arbitrador Financiero](https://github.com/anresz73/PlanAuto)** | __En progreso__. Análisis financiero de FCI / Plazo Fijo vs. Plan Ahorro en simulación estocástica |
