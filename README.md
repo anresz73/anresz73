@@ -1,5 +1,5 @@
 - - -
-Data Engineer | Python | SQL | Data Viz
+Data Engineer | Python | SQL | Data Science
 ====
 Getting into Pipelines with:
 
