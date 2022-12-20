@@ -22,6 +22,17 @@ Getting into Pipelines with:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 - - - -
+
+## Portfolio
+
+| **Link** | **Descripción** |
+| :----: | :----: |
+| **[Challenge Técnico](https://github.com/anresz73/cultura_db)** | Challenge Técnico Alkemy. ETL en Python desde archivos CSV a BD PostgreSQL|
+| **[White Noise Generator](https://github.com/anresz73/white_noise)** | Emulador de __canal sin señal__ usando Numpy y Matplotlib|
+| **[Arbitrador Financiero](https://github.com/anresz73/PlanAuto)** | __En progreso__. Análisis financiero de FCI / Plazo Fijo vs. Plan Ahorro en simulación estocástica |
+
+- - -
+
 <div align="right" >
   <br/>
   <a href = "https://github.com/anresz73/white_noise/blob/master/white_noise.py">
@@ -36,13 +47,3 @@ Getting into Pipelines with:
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anresz73/)
  </div>
 <br/>
-
-- - -
-
-## Portfolio
-
-| **Link** | **Descripción** |
-| :----: | :----: |
-| **[Challenge Técnico](https://github.com/anresz73/cultura_db)** | Challenge Técnico Alkemy. ETL en Python desde archivos CSV a BD PostgreSQL|
-| **[White Noise Generator](https://github.com/anresz73/white_noise)** | Emulador de __canal sin señal__ usando Numpy y Matplotlib|
-| **[Arbitrador Financiero](https://github.com/anresz73/PlanAuto)** | __En progreso__. Análisis financiero de FCI / Plazo Fijo vs. Plan Ahorro en simulación estocástica |
